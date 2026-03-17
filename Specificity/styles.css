@@ -1,0 +1,19 @@
+* {
+    color: gray;
+}
+
+p {
+    color: red;
+}
+
+.text {
+    color: blue;
+}
+
+#unique-text {
+    color: green;
+}
+
+h1 {
+    color: purple !important;
+}

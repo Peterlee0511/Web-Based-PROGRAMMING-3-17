@@ -1,0 +1,20 @@
+body {
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    color: cadetblue;
+    text-align: center;
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+a {
+    background-color: crimson;
+    color: aliceblue;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}

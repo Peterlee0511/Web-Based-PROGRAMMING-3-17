@@ -1,0 +1,12 @@
+.container p{
+    color: blue;
+    font-weight: bold;
+}
+
+.container .nested p {
+    color: red;    
+}
+
+p {
+    color: black;
+}
